@@ -1,5 +1,5 @@
 ## Public Keys
-This repository contains a copy of the public keys that I use to sign things.
+This repository contains a copy of the OpenPGP public keys that I use to sign things.
 
 > [!IMPORTANT]
 > Before using the keys included in this repo, check their validity.

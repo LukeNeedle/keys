@@ -16,14 +16,14 @@ This repository contains a copy of the OpenPGP public keys that I use to sign th
 > [!IMPORTANT]
 > If the key files are updated, a note will be included here and a changelog will be updated (or created) - this changelog will be signed with the root key.
 
-| Key                                       | Valid | Notes |
-| :---------------------------------------- | :---: | :---: |
-| email@keys.lukeneedle.uk.pub              | Yes   | -     |
-| l.needle@lancaster.ac.uk.pub              | Yes   | -     |
-| ln.sec@development.lukeneedle.uk.pub      | Yes   | -     |
-| luke.needle@development.lukeneedle.uk.pub | Yes   | -     |
-| packaging@keys.lukeneedle.uk.pub          | Yes   | -     |
-| root@keys.lukeneedle.uk.pub               | Yes   | -     |
+| Key                                       | Valid | Notes                                        |
+| :---------------------------------------- | :---: | :------------------------------------------: |
+| email@keys.lukeneedle.uk.pub              | Yes   | -                                            |
+| l.needle@lancaster.ac.uk.pub              | Yes   | -                                            |
+| ln.sec@development.lukeneedle.uk.pub      | Yes   | -                                            |
+| luke.needle@development.lukeneedle.uk.pub | Yes   | -                                            |
+| packaging@keys.lukeneedle.uk.pub          | Yes   | T1747760040: Signed key with development key |
+| root@keys.lukeneedle.uk.pub               | Yes   | -                                            |
 
 > [!NOTE]
 > All of my keys are signed by my root key.

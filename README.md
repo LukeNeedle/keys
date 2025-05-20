@@ -18,6 +18,7 @@ This repository contains a copy of the OpenPGP public keys that I use to sign th
 
 | Key                                       | Valid | Notes |
 | :---------------------------------------- | :---: | :---: |
+| email@keys.lukeneedle.uk.pub              | Yes   | -     |
 | l.needle@lancaster.ac.uk.pub              | Yes   | -     |
 | ln.sec@development.lukeneedle.uk.pub      | Yes   | -     |
 | luke.needle@development.lukeneedle.uk.pub | Yes   | -     |

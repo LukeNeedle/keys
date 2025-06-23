@@ -16,14 +16,16 @@ This repository contains a copy of the OpenPGP public keys that I use to sign th
 > [!IMPORTANT]
 > If the key files are updated, a note will be included here and a changelog will be updated (or created) - this changelog will be signed with the root key.
 
-| Key                                       | Valid | Notes                                        |
-| :---------------------------------------- | :---: | :------------------------------------------: |
-| email@keys.lukeneedle.uk.pub              | Yes   | -                                            |
-| l.needle@lancaster.ac.uk.pub              | Yes   | -                                            |
-| ln.sec@development.lukeneedle.uk.pub      | Yes   | -                                            |
-| luke.needle@development.lukeneedle.uk.pub | Yes   | -                                            |
-| packaging@keys.lukeneedle.uk.pub          | Yes   | T1747760040: Signed key with development key |
-| root@keys.lukeneedle.uk.pub               | Yes   | -                                            |
+| Key                                       | Valid | Notes                                                                                   |
+| :---------------------------------------- | :---: | :-------------------------------------------------------------------------------------: |
+| email@keys.lukeneedle.uk.pub              | Yes   | T1750716900: Replaced old root signature with new signature                             |
+| l.needle@lancaster.ac.uk.pub              | Yes   | 17507169000: Replaced old root signature with new signature and added new dev signature |
+| ln.sec@development.lukeneedle.uk.pub      | Yes   | T1750716900: Replaced old root signature with new signature and added new dev signature |
+| luke.needle@development.lukeneedle.uk.pub | Yes   | T1750716900: Replaced old root signature with new signature                             |
+| dev@lukeneedle.uk.pub                     | Yes   | -                                                                                       |
+| packaging@keys.lukeneedle.uk.pub          | Yes   | T1750716900: Replaced old root signature with new signature and added new dev signature |
+| root@keys.lukeneedle.uk.pub               | Yes   | T1750716900: Replaced with new root key                                                 |
+| security@keys.lukeneedle.uk               | Yes   | -                                                                                       |
 
 > [!NOTE]
 > All of my keys are signed by my root key.

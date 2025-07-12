@@ -19,13 +19,13 @@ This repository contains a copy of the OpenPGP public keys that I use to sign th
 | Key                                       | Valid | Notes                                                                                   |
 | :---------------------------------------- | :---: | :-------------------------------------------------------------------------------------: |
 | email@keys.lukeneedle.uk.pub              | Yes   | T1750716900: Replaced old root signature with new signature                             |
-| l.needle@lancaster.ac.uk.pub              | Yes   | 17507169000: Replaced old root signature with new signature and added new dev signature |
+| l.needle@lancaster.ac.uk.pub              | Yes   | T1750716900: Replaced old root signature with new signature and added new dev signature |
 | ln.sec@development.lukeneedle.uk.pub      | Yes   | T1750716900: Replaced old root signature with new signature and added new dev signature |
 | luke.needle@development.lukeneedle.uk.pub | Yes   | T1750716900: Replaced old root signature with new signature                             |
 | dev@lukeneedle.uk.pub                     | Yes   | -                                                                                       |
 | packaging@keys.lukeneedle.uk.pub          | Yes   | T1750716900: Replaced old root signature with new signature and added new dev signature |
 | root@keys.lukeneedle.uk.pub               | Yes   | T1750716900: Replaced with new root key                                                 |
-| security@keys.lukeneedle.uk               | Yes   | -                                                                                       |
+| security@keys.lukeneedle.uk.pub           | Yes   | -                                                                                       |
 
 > [!NOTE]
 > All of my keys are signed by my root key.
